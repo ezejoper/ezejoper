@@ -11,21 +11,28 @@ ____________________________
 
 
 ## Tecnologias 🧑‍💻:
-***
-*HTML
-*CSS
-*SASS
-*React
-*Redux
-*Bootstrap
-*Nodejs
-*Express
-*Sequelize
-*PostgreSQL
+****
+<div>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>SASS</li>
+  <li>Chatbot</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>NodeJS</li>
+  <li>PostgreSQL</li>
+  
+  
+ </div>
+<div>
 
 
 
 ## My Projects:
+  ***
 ### FOOD-APP 🍝
 ****
 ![ScreenShot](/Assets/landing%20(1).jpg)
@@ -45,8 +52,14 @@ ____________________________
  ![ScreenShot](/Assets/photo_5139057249203890914_w%20(3).jpg)
 
 ****
+<<<<<<< HEAD
 🔸 Si deseas comunicarte conmigo dejo mi email:
  *📩 : ezequiiel.peralta@gmail.com´
  *📱 : +543826444500
+=======
+🔸<b> Si deseas comunicarte conmigo dejo mi email:</b>
+<li>📩 : ezequiiel.peralta@gmail.com</li>
+<li>-📱 : +543826444500</li>
+>>>>>>> 2661a3b57d043d38e561a5a9a30cf8fcd79b5f56
 
 
