@@ -11,6 +11,7 @@ ____________________________
 
 
 ## Tecnologias 🧑‍💻:
+****
 <div>
   <li>JavaScript</li>
   <li>TypeScript</li>
@@ -33,6 +34,7 @@ ____________________________
 
 
 ## My Projects:
+  ***
 ### FOOD-APP 🍝
 ****
 ![ScreenShot](/Assets/landing%20(1).jpg)
