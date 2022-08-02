@@ -21,7 +21,7 @@ Bootstrap
 Nodejs
 Express
 Sequelize
-PostgreSQL
+PostgresSQL
 
 
 
