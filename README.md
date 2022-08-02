@@ -27,8 +27,13 @@ PostgreSQL
 
 ## My Projects:
 #### FOOD-APP 🍝
-#### MyAnime 
+![ScreenShot](/Assets/landing%20(1).jpg)
+![ScreenShot](/Assets/foodRecipe%20(1).jpg)
+![ScreenShot](/Assets/detai%20(1).jpg)
+![ScreenShot](/Assets/Food%20(1).jpg)
+#### MyAnime :
 
- ![Image text](photo_5139057249203890914_w.jpg)
+ ![ScreenShot](/Assets/photo_5139057249203890914_w%20(3).jpg)
+
 
 
