@@ -46,7 +46,7 @@ PostgreSQL
 
 ****
 🔸 Si deseas comunicarte conmigo dejo mi email:
- 📩 : ezequiiel.peralta@gmail.com´
- 📱 : +543826444500
+📩 : ezequiiel.peralta@gmail.com
+📱 : +543826444500
 
 
