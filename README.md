@@ -12,16 +12,8 @@ ____________________________
 
 ## Tecnologias 🧑‍💻:
 ***
-*HTML
-*CSS
-*SASS
-*React
-*Redux
-*Bootstrap
-*Nodejs
-*Express
-*Sequelize
-*PostgreSQL
+HTML
+REACT
 
 
 
