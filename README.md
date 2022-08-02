@@ -23,8 +23,6 @@ ____________________________
   <li>CSS</li>
   <li>Bootstrap</li>
   <li>NodeJS</li>
-  <li>Express</li>
-  <li>Prisma</li>
   <li>PostgreSQL</li>
   
   
