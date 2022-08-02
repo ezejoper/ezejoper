@@ -1,4 +1,7 @@
-# Bienvenido!, soy Ezequiel 👋🧑
+![ScreenShot](/Assets/Ezequiel%20Peralta.gif)
+
+
+# Bienvenido!👋🧑
 ____________________________
 🔸 Mi nombre es José Ezequiel Peralta soy desarrollador Front-end y estudiante de Veterinaria. 
 
@@ -52,14 +55,8 @@ ____________________________
  ![ScreenShot](/Assets/photo_5139057249203890914_w%20(3).jpg)
 
 ****
-<<<<<<< HEAD
-🔸 Si deseas comunicarte conmigo dejo mi email:
- *📩 : ezequiiel.peralta@gmail.com´
- *📱 : +543826444500
-=======
 🔸<b> Si deseas comunicarte conmigo dejo mi email:</b>
 <li>📩 : ezequiiel.peralta@gmail.com</li>
 <li>-📱 : +543826444500</li>
->>>>>>> 2661a3b57d043d38e561a5a9a30cf8fcd79b5f56
 
 
