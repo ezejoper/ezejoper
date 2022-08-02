@@ -12,8 +12,8 @@ ____________________________
 
 ## Tecnologias 🧑‍💻:
 
--HTML
--REACT
+🔸HTML
+🔸REACT
 
 
 
