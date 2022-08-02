@@ -1,4 +1,4 @@
-# Hola soy Ezequiel 👋🧑
+# Bienvenido!, soy Ezequiel 👋🧑
 ____________________________
 🔸 Mi nombre es José Ezequiel Peralta soy desarrollador Front-end y estudiante de Veterinaria. 
 
