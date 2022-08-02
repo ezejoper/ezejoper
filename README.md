@@ -52,7 +52,7 @@ ____________________________
  ![ScreenShot](/Assets/photo_5139057249203890914_w%20(3).jpg)
 
 ****
-🔸 Si deseas comunicarte conmigo dejo mi email:
+🔸<b> Si deseas comunicarte conmigo dejo mi email:</b>
 <li>📩 : ezequiiel.peralta@gmail.com</li>
 <li>-📱 : +543826444500</li>
 
