@@ -11,9 +11,23 @@ ____________________________
 
 
 ## Tecnologias 🧑‍💻:
-
-🔸HTML
-🔸REACT
+<div>
+  <h3>🛠 Tools and technologies I use:</h3>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>Node</li>
+  <li>Express</li>
+  <li>Prisma</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>Chatbots</li>
+ </div>
+<div>
 
 
 
