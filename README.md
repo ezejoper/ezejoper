@@ -38,11 +38,15 @@ PostgreSQL
 
 
 
-### MyAnime :
+### MyAnime 🇯🇵 :
 ***
 
 
  ![ScreenShot](/Assets/photo_5139057249203890914_w%20(3).jpg)
 
+****
+🔸 Si deseas comunicarte conmigo dejo mi email:
+ 📩 : ezequiiel.peralta@gmail.com´
+ 📱 : +543826444500
 
 
