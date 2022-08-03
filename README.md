@@ -43,27 +43,27 @@ He conocido personas y  miembros de esta comunidad que poseen excelentes habilid
 
 
 #### [Front-End] Moon Cinema 🌙: 
-[Link to repository](https://github.com/ezejoper/PF.git)
+[Link al repositorio](https://github.com/ezejoper/PF.git)
 
 [Link a la Web](https://moon-cinema-app.vercel.app/home)
 
 #### [Full Stack] Food-APP 🍝: 
-[Link to repository](https://github.com/ezejoper/pi-Food.git)
+[Link al repositorio](https://github.com/ezejoper/pi-Food.git)
 
 [Link a la Web](https://pi-food-five.vercel.app/)
 
 
 
 ####  [Front-End] MyAnime 🇯🇵 :
-[Link to repository](https://github.com/ezejoper/myAnime.git)
+[Link al repositorio](https://github.com/ezejoper/myAnime.git)
 
 [Link a la Web](https://my-anime-theta.vercel.app/)
 
 #### [Front-End] AppTarea 👷:
-[Link to repository](https://github.com/ezejoper/appTareea.git)
+[Link al repositorio](https://github.com/ezejoper/appTareea.git)
 
 #### [Front-End] Calculadora🧮:
-[Link to repository](https://github.com/ezejoper/Caculadora.git)
+[Link al repositorio](https://github.com/ezejoper/Caculadora.git)
 
 [Link a la Web](https://caculador.vercel.app/)
 
