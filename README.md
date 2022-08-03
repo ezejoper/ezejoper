@@ -80,6 +80,6 @@ He conocido personas y  miembros de esta comunidad que poseen excelentes habilid
 </p>
 
 Comunicate conmigo... escríbeme a 💬:
-  <li>✉️ ezequiiel.peralta@gmail.com<li/>
+  <li>✉️ ezequiiel.peralta@gmail.com</li>
 
 
