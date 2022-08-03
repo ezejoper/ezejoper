@@ -5,24 +5,22 @@
 ____________________________
 <p align="center">
 
-  ![ScreenShot](/Assets/Adding%20Grain%20texure.gif)
+  <img src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
 
 
 
-## Hola 👋, soy Ezequiel
-
-### Front-end Developer
-
-#### Porque elegirme? 🤔
-<div>
-Todas las personas que conoci y los miembros de esta comunidad tienen excelentes habilidades técnicas, pero sin embargo, conmigo obtendrá un desarrollador observador también detallista con grandes habilidades para resolver problemas, con muchas ganas de aprender y mejorar y , además de todo lo nombrado, un desarrollador siempre dispuesto a enseñar y aprender de los demás.
-</div>
+### Hola 👋, me llamo Ezequiel
+#### Front-end Developer
 
 
+He conocido personas y  miembros de esta comunidad que poseen excelentes habilidades técnicas, pero sin embargo, conmigo obtendrá un desarrollador observador también detallista con grandes habilidades para resolver problemas, con muchas ganas de aprender y mejorar y , además de todo lo nombrado, un desarrollador siempre dispuesto a enseñar y aprender de los demás.
 
-### Tecnologias 🧑‍💻:
+*****
+
+
+## Tecnologias 🧑‍💻:
 ****
 <div>
   <li>JavaScript</li> 
@@ -41,14 +39,36 @@ Todas las personas que conoci y los miembros de esta comunidad tienen excelentes
  </div>
 <div>
 
+### Mis Proyectos:
 
 
+#### [Front-End] Moon Cinema 🌙: 
+[Link to repository](https://github.com/ezejoper/PF.git)
+
+[Link a la Web](https://moon-cinema-app.vercel.app/home)
+
+#### [Full Stack] Food-APP 🍝: 
+[Link to repository](https://github.com/ezejoper/pi-Food.git)
+
+
+####  [Front-End] MyAnime 🇯🇵 :
+[Link to repository](https://github.com/ezejoper/myAnime.git)
+
+
+
+#### [Front-End] AppTarea 👷:
+[Link to repository](https://github.com/ezejoper/appTareea.git)
+
+
+****
 <h3 align="left">Linkedin :</h3>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ezeperalta/">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
  </a>
  
 
+    
+    
 
 ### ⚙️ &nbsp; GitHub Analytics
 
@@ -59,17 +79,7 @@ Todas las personas que conoci y los miembros de esta comunidad tienen excelentes
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ezejoper)  
-
-![GitHub metrics](https://metrics.lecoq.io/ezejoper)
-*****
-
-
-
-
-
-
-
-
+Escríbeme a 💬:
+  ✉️ ezequiiel.peralta@gmail.com
 
 
