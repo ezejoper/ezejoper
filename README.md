@@ -56,7 +56,7 @@ ____________________________
 
 ****
 🔸<b> Si deseas comunicarte conmigo dejo mi email:</b>
-<li>📩 : ezequiiel.peralta@gmail.com</li>
-<li>-📱 : +543826444500</li>
+<li>📩 email: ezequiiel.peralta@gmail.com</li>
+<li>📱 celular: +543826444500</li>
 
 
