@@ -1,22 +1,31 @@
-![ScreenShot](/Assets/Ezequiel%20Peralta.gif)
+
 
 
 # Bienvenido!👋🧑
 ____________________________
-🔸 Mi nombre es José Ezequiel Peralta soy desarrollador Front-end y estudiante de Veterinaria. 
+<p align="center">
 
-🔸 Poseo una gran capacidad de comunicación, resolución de problemas, y una predisposición enorme a enseñar y aprender de los demás. 
-
-🔸 Me considero una persona apasionada por el aprendizaje, mi objetivo es mejorar a diario, pulir mis conocimiento y aumentar mis capacidad, formarme frente a un mercado laboral.
-
-🔸 Mi experiencia ha sido principalmente en el ámbito académico y en lo laboral trabajando de Secretario por un año. A la par de la carrera de Veterinaria, me formé como Desarrollador Full Front-end en SoyHenry, donde aprendí a mantener un ritmo intensivo de estudio, trabajo y dedicación, además de adquirir múltiples conocimientos y habilidades. También en soyHenry he tenido la oportunidad de trabajar en equipo donde pude familiarizarme con metodologías ágiles (SCRUM), así como desarrollar habilidades comunicativas que facilitan el avance hacia un objetivo común de manera eficiente y armónica.
-*****
+  ![ScreenShot](/Assets/Adding%20Grain%20texure.gif)
+  
+</p>
 
 
-## Tecnologias 🧑‍💻:
+
+## Hola 👋, soy Ezequiel
+
+### Front-end Developer
+
+#### Porque elegirme? 🤔
+<div>
+Todas las personas que conoci y los miembros de esta comunidad tienen excelentes habilidades técnicas, pero sin embargo, conmigo obtendrá un desarrollador observador también detallista con grandes habilidades para resolver problemas, con muchas ganas de aprender y mejorar y , además de todo lo nombrado, un desarrollador siempre dispuesto a enseñar y aprender de los demás.
+</div>
+
+
+
+### Tecnologias 🧑‍💻:
 ****
 <div>
-  <li>JavaScript</li>
+  <li>JavaScript</li> 
   <li>TypeScript</li>
   <li>React</li>
   <li>Redux</li>
@@ -34,29 +43,33 @@ ____________________________
 
 
 
-## My Projects:
-  ***
-### FOOD-APP 🍝
-****
-![ScreenShot](/Assets/landing%20(1).jpg)
-
-![ScreenShot](/Assets/foodRecipe%20(1).jpg)
-
-![ScreenShot](/Assets/detai%20(1).jpg)
-
-![ScreenShot](/Assets/Food%20(2).jpg)
+<h3 align="left">Linkedin :</h3>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ezeperalta/">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+ </a>
+ 
 
 
+### ⚙️ &nbsp; GitHub Analytics
 
-### MyAnime 🇯🇵 :
-***
+<p align="center">
+<a href="https://github.com/ezejoper">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezejoper&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezejoper&layout=compact&e&theme=vue-light" />
+</a>
+</p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ezejoper)  
+
+![GitHub metrics](https://metrics.lecoq.io/ezejoper)
+*****
 
 
- ![ScreenShot](/Assets/photo_5139057249203890914_w%20(3).jpg)
 
-****
-🔸<b> Si deseas comunicarte conmigo dejo mi email:</b>
-<li>📩 email: ezequiiel.peralta@gmail.com</li>
-<li>📱 celular: +543826444500</li>
+
+
+
+
+
 
 
