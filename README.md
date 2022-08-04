@@ -11,7 +11,7 @@ ____________________________
 
 
 
-### Hola 👋, me llamo Ezequiel
+### Hola 👋, me presento soy Ezequiel
 #### Front-end Developer
 
 
