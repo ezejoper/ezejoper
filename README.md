@@ -73,7 +73,7 @@ He conocido personas y  miembros de esta comunidad que poseen excelentes habilid
 
 ****
 <h3 align="left">Linkedin :</h3>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ezeperalta/">
+<a href="https://www.linkedin.com/in/ezeperalta/">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
  </a>
  
