@@ -50,22 +50,25 @@ He conocido personas y  miembros de esta comunidad que poseen excelentes habilid
 #### [Full Stack] Food-APP 🍝: 
 [Link al repositorio](https://github.com/ezejoper/pi-Food.git)
 
-[Link a la Web](https://pi-food-five.vercel.app/)
+[Link a la Web](https://pi-food-five.vercel.app)
 
 
 
 ####  [Front-End] MyAnime 🇯🇵 :
 [Link al repositorio](https://github.com/ezejoper/myAnime.git)
 
-[Link a la Web](https://my-anime-theta.vercel.app/)
+[Link a la Web](https://my-anime-theta.vercel.app)
 
 #### [Front-End] AppTarea 👷:
 [Link al repositorio](https://github.com/ezejoper/appTareea.git)
 
+[Link a la Web](https://app-tareea.vercel.app)
+
+
 #### [Front-End] Calculadora🧮:
 [Link al repositorio](https://github.com/ezejoper/Caculadora.git)
 
-[Link a la Web](https://caculador.vercel.app/)
+[Link a la Web](https://caculador.vercel.app)
 
 
 ****
