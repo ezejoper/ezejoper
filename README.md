@@ -34,6 +34,7 @@ He conocido personas y  miembros de esta comunidad que poseen excelentes habilid
   <li>Bootstrap</li>
   <li>NodeJS</li>
   <li>PostgreSQL</li>
+  <li>React Native</li>
   
   
  </div>
