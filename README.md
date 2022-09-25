@@ -28,7 +28,6 @@ He conocido personas y  miembros de esta comunidad que poseen excelentes habilid
   <li>React</li>
   <li>Redux</li>
   <li>SASS</li>
-  <li>Chatbot</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Bootstrap</li>
